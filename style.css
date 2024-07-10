@@ -1,0 +1,44 @@
+.bg-dark-light {
+    background-color: #f5953b;
+}
+
+.form-control-dark {
+    background-color: #495057;
+    border: 1px solid #ced4da;
+    color: #f8f9fa;
+}
+
+body {
+    background-color: #f5953b;
+}
+
+.card {
+    background-color: white;
+}
+
+.text-custom {
+    color: #ffc107;
+}
+
+.btn-custom {
+    background-color: #28a745;
+    border: none;
+    color: white;
+}
+
+.btn-custom:hover {
+    background-color: #218838;
+}
+
+.btn-home {
+    background-color: #007bff;
+    border: none;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.btn-home:hover {
+    background-color: #0056b3;
+}
